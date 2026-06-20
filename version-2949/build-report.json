@@ -1,0 +1,21 @@
+{
+  "movie_count": 2000,
+  "detail_file_count": 2000,
+  "category_coverage_count": 2000,
+  "category_counts": {
+    "港台热映": 200,
+    "动作冒险": 200,
+    "古装奇幻": 200,
+    "欧美片库": 201,
+    "喜剧家庭": 201,
+    "日韩泰精选": 198,
+    "国产剧集": 201,
+    "恐怖科幻": 200,
+    "爱情都市": 200,
+    "悬疑犯罪": 199
+  },
+  "html_file_count": 2014,
+  "image_files_in_zip_source": 0,
+  "missing_baidu_pages": [],
+  "zip_size_bytes": 11735808
+}
